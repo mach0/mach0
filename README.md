@@ -1,6 +1,6 @@
 ### Hi there 👋
-[<img align="center" https://github-readme-stats.vercel.app/api/?username=mach0&theme=dracula />]
-[<img src="http://www.google.com.au/images/nav_logo7.png">]
+
+
 
 <!--
 **mach0/mach0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=mach0&theme=dracula" />
